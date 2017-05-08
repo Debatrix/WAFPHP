@@ -33,38 +33,41 @@ PS:当然，这只是一种思路，适用于某些特殊场景，它并不能�
 
 ###配置###
 
+
+
 #####配置文件路径：#####
 \#your WAFPHP path\#/Conf/config.default.php
 
+
 详细配置请参考配置文件中的备注
 
-github：
-[here](https://github.com/ZoaChou/WAFPHP)
 
-进阶版教程：
-[here](https://www.mudoom.com/Article/show/id/35.html)
+[原作者github](https://github.com/ZoaChou/WAFPHP)
 
-高阶版教程：
-[here](https://www.mudoom.com/Article/show/id/36.html)
+
+[进阶版教程](https://www.mudoom.com/Article/show/id/35.html)
+
+
+[高阶版教程](https://www.mudoom.com/Article/show/id/36.html)
 
 ======
 其他一些值得参考的资料：
 
-网络攻防比赛PHP版本WAF
-[here](http://www.cnblogs.com/test404/p/6017370.html)
 
-论如何在CTF比赛中搅“shi”
-[here](http://www.freebuf.com/articles/web/118149.html)
+[网络攻防比赛PHP版本WAF](http://www.cnblogs.com/test404/p/6017370.html)
 
-使用各种扫描工具的你，不但踩了“蜜罐”可能还要被团灭了
-[here](http://www.freebuf.com/articles/network/116922.html)
 
-Raptor WAF
-[here](https://github.com/CoolerVoid/raptor_waf)
+[论如何在CTF比赛中搅“shi”](http://www.freebuf.com/articles/web/118149.html)
 
-如何打造一款可靠的WAF
-[here](http://www.freebuf.com/sectool/54221.html)
 
-WAF防御能力评测及工具
-[here](http://danqingdani.blog.163.com/blog/static/1860941952014101462723470/)
+[使用各种扫描工具的你，不但踩了“蜜罐”可能还要被团灭了](http://www.freebuf.com/articles/network/116922.html)
+
+
+[Raptor WAF](https://github.com/CoolerVoid/raptor_waf)
+
+
+[如何打造一款可靠的WAF](http://www.freebuf.com/sectool/54221.html)
+
+
+[WAF防御能力评测及工具](http://danqingdani.blog.163.com/blog/static/1860941952014101462723470/)
 
